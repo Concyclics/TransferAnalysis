@@ -1,0 +1,1 @@
+gcc -Ofast -o Asoul ./loop_detect.cpp -lstdc++ -std=c++17 -lpthread
