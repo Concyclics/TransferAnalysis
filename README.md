@@ -1,2 +1,2 @@
 # TransferAnalysis
-This is a full C++ well-optimized multi-process program to find money laundering in transfer dataset.
+This is a C++ well-optimized multi-thread program to find money laundering in transfer dataset.
